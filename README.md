@@ -1,2 +1,2 @@
 # spring_rest_api
- rest api using spring boot
+ Course App using Spring Boot and Rest Api
